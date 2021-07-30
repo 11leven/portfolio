@@ -1,4 +1,4 @@
-This repo consist of file relted to
+This repo consist of files relted to
 
 Project1 - Predict Student Performance in Exams.
 

@@ -1,5 +1,7 @@
-Project - Predict Student Performance in Exams.
+This repo consist of file relted to
 
-Project - Predicting failure of APS brake sysems in trucks.
+Project1 - Predict Student Performance in Exams.
 
-Project - Sentiment Analysis of Phones sold on Amazon
+Project2 - Predicting failure of APS brake sysems in trucks.
+
+Project3 - Sentiment Analysis of Phones sold on Amazon

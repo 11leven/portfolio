@@ -10,4 +10,4 @@ steppingstone to Data Science excellence, trust and
 confidence to users and practitioners alike.
 
 
-Check my other project [https://11leven.github.io/portfolio/]
+Check my other projects [https://11leven.github.io/portfolio/]

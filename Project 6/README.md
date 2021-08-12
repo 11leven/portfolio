@@ -8,3 +8,6 @@ will alleviate today privacy and ethical concerns, but a
 conscious effort with above listed process will pave
 steppingstone to Data Science excellence, trust and
 confidence to users and practitioners alike.
+
+
+Check my other project [https://11leven.github.io/portfolio/]

@@ -6,3 +6,5 @@ Cleaning Formatting Flat File Source,
 Cleaning Formatting Website Data, 
 Connecting to an API Pulling in the data and cleaning formatting &  
 Merging the data and storing in a database visualizing data
+
+Check my other projects [https://11leven.github.io/portfolio/]
